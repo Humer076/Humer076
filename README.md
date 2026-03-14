@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm Md Humer Ali 👋</h1>
+<h1 align="center">Hi there, I'm Md Humer Ali</h1>
 
 <h3 align="center">Full-Stack Developer | AI & ML Enthusiast</h3>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🎓 Final-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**
-- 💡 Passionate about building **real-world solutions in AI, ML, and Full-Stack Development**
-- 🚀 Interested in **Software Development Engineer (SDE) and Full-Stack roles**
-- 🔭 Currently building **AI-driven applications and scalable backend systems**
-- 🌱 Learning **System Design, Cloud Architecture, and Distributed Systems**
-- 💬 Ask me about **Python, APIs, Backend Development, AI/ML**
-- 📫 Reach me at **mdumerali44@gmail.com**
+- Computer Science student specializing in Artificial Intelligence and Machine Learning
+- Passionate about building real-world solutions in AI, Machine Learning, and Full-Stack Development
+- Interested in Software Development Engineer (SDE) and Full-Stack roles
+- Currently building AI-driven applications and scalable backend systems
+- Learning System Design, Cloud Architecture, and Distributed Systems
+- Ask me about Python, APIs, Backend Development, and AI/ML
+- Contact: **mdumerali44@gmail.com**
 
 ---
 
-# 🛠 Tech Stack & Tools
+# Tech Stack & Tools
 
 ### Programming Languages
 
@@ -72,7 +72,7 @@
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
 
