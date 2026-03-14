@@ -1,115 +1,62 @@
-# Hi there, I'm Md Humer Ali 👋
+<h1 align="center">Hi there, I'm Md Humer Ali 👋</h1>
 
-### Software Development Engineer | Full-Stack Developer | AI & ML Engineer
-
-I’m a Computer Science student specializing in Artificial Intelligence & Machine Learning at PES University.  
-I enjoy building scalable full-stack applications, AI-powered systems, and cloud-native platforms.
-
-I’m currently seeking **Software Development Engineer (SDE) and Full-Stack roles** where I can build impactful products and work on challenging engineering problems.
+<h3 align="center">Full-Stack Developer | AI & ML Enthusiast</h3>
 
 ---
 
-## About Me
+## 🎯 About Me
 
-- B.Tech in Computer Science (AI & ML), PES University
-- Strong interest in **backend systems, scalable APIs, AI systems, and distributed architectures**
-- Experience building **AI-driven applications, SaaS platforms, and full-stack systems**
-- Passionate about **clean architecture, performance optimization, and production-ready systems**
-
-- Currently working on **AI-driven platforms and data analysis systems**
-- Exploring **system design, distributed systems, and cloud-native applications**
+- 🎓 Final-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**
+- 💡 Passionate about building **real-world solutions in AI, ML, and Full-Stack Development**
+- 🚀 Always eager to learn and explore **cutting-edge technologies**
+- 🔭 Currently working on **AI-driven applications and data platforms**
+- 🌱 Currently learning **Advanced System Design & Cloud Technologies**
+- 💬 Ask me about **AI/ML, Python development, Backend & Full-Stack engineering**
+- 📫 Reach me at **mdumerali44@gmail.com**
 
 ---
 
-## Tech Stack
+# 🛠 Tech Stack & Tools
 
-### Languages
-Python • C++ • SQL • JavaScript
+### Programming Languages
 
-### Backend & APIs
-Node.js • Express.js • REST API Design • Authentication (JWT)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-grey?logo=mysql)
 
-### Frontend
-React.js • HTML • CSS
+---
 
-### Databases
-PostgreSQL • MongoDB • MySQL
+### Web Development
+
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+
+---
 
 ### AI / Machine Learning
-TensorFlow • PyTorch • Scikit-learn  
-CNN • LSTM / Bi-LSTM • Transformers (FinBERT)  
-Reinforcement Learning
 
-### Cloud & DevOps
-AWS (EC2, S3, RDS, Lambda, VPC, IAM, CloudWatch)  
-Docker  
-Git • GitHub
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
 
 ---
 
-## Projects
+### Tools & Others
 
-### AI-Based Examination Proctoring System
-AI-powered exam monitoring system detecting suspicious activities during online exams.
-
-**Tech:** YOLOv8, Mediapipe, React.js, Node.js, SQL
-
-- Implemented multi-face detection, gaze tracking, and suspicious object detection
-- Achieved **87.2% accuracy** on a dataset of 576 images
-- Built real-time monitoring dashboard
-- Designed database schemas for session logs and activity tracking
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
 
 ---
 
-### DevTrack – Multi-Tenant SaaS Project Management Platform
-A full-stack SaaS system for managing projects and tasks across organizations.
+# 🤝 Let's Connect
 
-**Tech:** React, Node.js, Express, PostgreSQL, JWT
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
 
-- Implemented multi-organization architecture
-- Secure authentication and role-based authorization
-- Project and task management with progress tracking
-- Deployed using **Render (backend) and Vercel (frontend)**
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:mdumerali44@gmail.com)
 
----
-
-### Multimodal Stock Analysis System
-AI system combining financial indicators, sentiment analysis, and reinforcement learning for stock insights.
-
-**Tech:** Python, TensorFlow, PyTorch, FinBERT
-
-- Built CNN and LSTM-based prediction models
-- Integrated sentiment analysis from financial news
-- Designed pipelines for processing market data
-- Interactive dashboard for portfolio analysis
-
----
-
-### Voice-to-Text Desktop Application
-Cross-platform desktop application for real-time voice transcription.
-
-**Tech:** Tauri, React, Deepgram API
-
-- Real-time audio capture and streaming
-- WebSocket-based transcription integration
-- Modular architecture separating UI and processing layers
-
----
-
-## Developer Tools
-
-Git • Docker • VS Code • Jupyter Notebook
-
----
-
-## Connect With Me
-
-LinkedIn: https://linkedin.com  
-Email: mdumerali44@gmail.com  
-GitHub: https://github.com/Humer076
-
----
-
-## GitHub Stats
-
-![Humer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humer076&show_icons=true&theme=tokyonight)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Humer076)
